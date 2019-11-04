@@ -5,3 +5,9 @@
 	
 		- Esercitazione N°1:
 			"esercitazione1": Prospetto costi-ricavi azienda tessile
+			
+		- Esercitazione N°2:
+			"esercitazione2": Pagella scolastica.
+			
+		- Esercitazione N°3:
+			"esercitazione3": Gestione vendite e sconti
