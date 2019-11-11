@@ -11,3 +11,6 @@
 			
 		- Esercitazione N°3:
 			"esercitazione3": Gestione vendite e sconti
+
+		- Esercitazione N°4:
+			"esercitazione4": Gestione di un Conto Corrente
