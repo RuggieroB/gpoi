@@ -14,3 +14,6 @@
 
 		- Esercitazione N°4:
 			"esercitazione4": Gestione di un Conto Corrente
+
+		- Esercitazione N°5:
+			"esercitazione5": Gestione di un'industria e della sua produzione.
