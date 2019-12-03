@@ -17,3 +17,6 @@
 
 		- Esercitazione N°5:
 			"esercitazione5": Gestione di un'industria e della sua produzione.
+			
+		- Esercitazione N°6:
+			"esercitazione6": Ricchezza e povertà dei paesi.
